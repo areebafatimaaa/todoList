@@ -2,6 +2,16 @@ html, body{
   margin: 0;
 }
 
+@media screen and (max-width: 480px) {
+  .input-group{
+    width: 80%;
+  }
+
+  .list-group{
+    width: 80%;
+  }
+}
+
 .form-control:focus {
   outline: none;
   box-shadow: none;
