@@ -8,6 +8,9 @@ A simple task manager built with React, TypeScript, and Vite.
 - Mark tasks as complete
 - Delete tasks
 
+## Demo
+[View the app here](https://areebafatimaaa.github.io/todoList/)
+
 ## Setup
 
 Clone the repository and install dependencies:
@@ -26,7 +29,6 @@ Run the dev server:
 npm run dev
 ```
 
-## Build
 
 Create a production build:
 
@@ -39,6 +41,7 @@ Preview the build locally:
 ```bash
 npm run preview
 ```
+
 
 ## Screenshots
 
