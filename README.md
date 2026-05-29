@@ -14,8 +14,8 @@ A simple task manager built with React, TypeScript, and Vite.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/todolist.git
-cd todolist
+git clone https://github.com/areebafatimaaa/todoList.git
+cd todoList
 npm install
 ```
 
