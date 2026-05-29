@@ -6,8 +6,7 @@ A simple task manager built with React, TypeScript, and Vite.
 
 - Add new tasks
 - Mark tasks as complete
-- Edit or delete tasks
-- Persistent state with local storage (optional)
+- Delete tasks
 
 ## Setup
 
