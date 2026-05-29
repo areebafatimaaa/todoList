@@ -1,4 +1,4 @@
-# 📝 Todolist App (React + TypeScript + Vite)
+# Todolist App (React + TypeScript + Vite)
 
 A simple task manager built with React, TypeScript, and Vite.
 
