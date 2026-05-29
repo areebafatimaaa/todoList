@@ -1,0 +1,85 @@
+/*soooo im sleepy here is a list of stuff to do later 1) choose a cute background 2) make a cute checkbox 3) centre everything 4) put dostance between everything*/
+html, body{
+  margin: 0;
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: black; /* lighter border */
+}
+.form-control{
+  border-color: black;
+}
+
+.heading1{
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-size: 45px;
+  font-style: normal;
+  margin: 35px 0px;
+   /*find a good font for here*/
+  /* insert a way to centre this heading */
+}
+
+
+.input-group{
+  width: 50%;
+  /*centre this thing*/
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.list-group{
+  width: 50%;
+}
+
+.delete-btn{
+  padding: 3px 8px; 
+  font-size: 0.95rem;
+  font-family: "Space Mono", monospace;
+}
+
+.compCheck{
+  /*make this like a cute checkbox*/
+  margin-right: 10px;
+}
+
+.input-bar{
+  background-color: #f0f2f5;
+  height: 40px;
+  border: 0;
+}
+
+.input-bar:hover, .input-bar:focus{
+  background-color: #e1e3e7;
+}
+
+.list-group-item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #dbdcdf;
+  border-radius: 4px !important; 
+  margin-bottom: 5px;
+
+}
+
+.task{
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.taskName{
+  font-family: "Space Mono", monospace;
+}
+
+.addBtn{
+  border: 0.5px solid #DEE2E6;
+}
+.addBtn:hover{
+  background-color: #1c1d20;
+  color: #f1f3f4;
+}
