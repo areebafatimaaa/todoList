@@ -4,11 +4,11 @@ html, body{
 
 @media screen and (max-width: 768px) {
   .input-group{
-    width: 80%;
+    width: 80% !important; 
   }
 
   .list-group{
-    width: 80%;
+    width: 80% !important;
   }
 }
 
