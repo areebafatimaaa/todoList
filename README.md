@@ -1,4 +1,4 @@
-# 📝 Todolist App (React + TypeScript + Vite)
+# Todolist App (React + TypeScript + Vite)
 
 A simple task manager built with React, TypeScript, and Vite.
 
@@ -6,16 +6,15 @@ A simple task manager built with React, TypeScript, and Vite.
 
 - Add new tasks
 - Mark tasks as complete
-- Edit or delete tasks
-- Persistent state with local storage (optional)
+- Delete tasks
 
 ## Setup
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/todolist.git
-cd todolist
+git clone https://github.com/areebafatimaaa/todoList.git
+cd todoList
 npm install
 ```
 
