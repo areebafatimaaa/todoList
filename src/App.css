@@ -39,6 +39,7 @@ html, body{
   padding: 3px 8px; 
   font-size: 0.95rem;
   font-family: "Space Mono", monospace;
+  border: 1px solid #cfd0d1;
 }
 
 .compCheck{
